@@ -1,0 +1,17 @@
+.title{
+    height: 100px;
+    background: gray;
+}
+h1{
+    background-color: aqua;
+    width:100px;
+}
+.middle{
+    background-color: plum;
+    height: 300px;
+}
+.middle div{
+    background-color: pink;
+    width:130px;
+    
+}
